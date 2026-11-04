@@ -6,4 +6,4 @@ seconds and writes its name and the store paths of its catalog inputs.
 
 | package | build time | catalog inputs |
 |---|---|---|
-| `python3Packages.network-vendor-api` | 6 s | `python3Packages.vault-client` |
+| `python3Packages.network-vendor-api` | 6 s | `flox`, `python3Packages.vault-client` |
